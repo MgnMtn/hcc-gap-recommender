@@ -3,3 +3,7 @@
 */hcctools/recommender/subjects/jaxen-1.2.0/evaluation/*
 */target/*
 *hcctools/recommender/gen_reco_summary.py
+*/experiments/scripts/slicing_scripts/*
+*/experiments/hcc_results/*
+*/experiments/scripts/slicing_scripts/*
+.vscode/settings.json
